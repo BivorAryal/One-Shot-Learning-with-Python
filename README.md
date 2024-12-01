@@ -19,6 +19,9 @@ VENV will be created
 ##
     initalized git = git init
     add/Create README file = README.md
+    git commit -m "fist commit"
+    git status
+    Also follow github steps to syc all the steps...
 
 
 
