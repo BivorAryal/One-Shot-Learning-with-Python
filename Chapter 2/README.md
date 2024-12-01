@@ -1,7 +1,7 @@
 # Chapter 2 Metrics Based Methods
 
 In this chapter, we will explore MEtrics based methods for one shot learning
-1. Siamese Network
+1. Siamese Network: we use twin network to compare similarities/discimilarities.
 2. Matching Network
 
 In this chapter, we will learn about deep learning architectures that can learn proper
